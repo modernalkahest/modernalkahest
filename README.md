@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @modernalkahest
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me ...
+- I’m looking to collaborate on python
+- How to reach me ...
 
 <!---
 modernalkahest/modernalkahest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
