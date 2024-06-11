@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @modernalkahest
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning python
+- Hi, I’m @modernalkahest
+- I’m interested in automation
+- I’m currently learning Data Science and Machine Learning
 - I’m looking to collaborate on python
 - How to reach me ...
 
